@@ -3,8 +3,8 @@
 //--------------------------------------------------------------------------------
 // Question : print out all of the numbers from 1 to 100 and
 // for any number that is a 3 multiplied we should pring Fizz 
-// next to the number and for any number which is a multipier of 5 we should say Buzz
-// and for any number that is a multipllier of both 3 and 5 we should say 
+// next to the number and for any number which is a multipied of 5 we should say Buzz
+// and for any number that is a multipllied of both 3 and 5 we should say 
 //---------------------------------------------------------------------------------
 // finnd the written version of the seloutin at the bottom of the file + and the consept that you'll learn from 
 // consept that you'll learn from 
